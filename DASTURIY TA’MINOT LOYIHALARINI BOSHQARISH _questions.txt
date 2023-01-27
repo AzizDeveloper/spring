@@ -1,0 +1,597 @@
+
+Quyidagi byudjet shakllaridan qaysi biri mavjud emas?
+====
+#xarajatlar byudjeti
+====
+daromad va xarajatlar byudjeti
+====
+pul oqimi byudjeti
+====
+prognoz balansi
+
++++++
+
+Tashqi xavflarga xos xususiyatga e'tibor bering:
+====
+#loyihaning tashqi muhiti tomonidan yaratilgan;
+====
+loyihaning o'ziga xos xususiyatlari bilan belgilanadi;
+====
+loyiha bekorchilari;
+====
+loyiha ijrochilari;
+
++++++
+Loyihani rejalashtirish quyidagi tartib bilan boshlanadi:
+=====
+#joriy jadval va resurs ma'lumotlarini direktiv jadval bilan solishtirish.
+=====
+ish faoliyatini tahlil qilish va baholash;
+=====
+loyiha maqsadlari va ish hajmini aniqlash;
+=====
+jadvalni hisoblash (ishlarning vaqtini belgilash);
+
++++++
+
+Tanlangan ish uchun faoliyat turi "ruhsat etilgan miqdor" bo'lsa va bir xil ish uchun boshqa resurs qo'shilsa, ma'lumotlar qanday o'zgaradi?
+=====
+#rejalashtirilgan miqdor.
+====
+boshlang'ich davomiyligi;
+====
+rejalashtirilgan intensivlik;
+====
+rejalashtirilgan intensivlik va davomiyligi;
+
++++++
+
+Loyiha ishi nima?
+====
+#resurslarning bajarilishi uchun loyihaning elementi.
+====
+minimal WBS(Work Breakdown Structure) elementi;
+====
+loyiha ishtirokchilarining faoliyati;
+====
+loyihaning boshlang'ich maqsadlariga erishish bo'yicha faoliyat;
+
++++++
+
+Loyiha bilan ishlashda “ Kritik yo'l ” bu -
+====
+#loyihaning asosiy bosqichlari ko'rsatkichi.
+====
+loyihaning barcha ishlarini bajarish muddatini prognoz qilish;
+====
+loyihada ishlashning eng uzoq davom etadigan usuli;
+====
+loyihaning eng qisqa usuli;
+
++++++
+
+Investitsion risk turi va uning ta'rifi o'rtasidagi muvofiqlikni ko'rsating (Kapital riski)
+====
+#kompyuter sistemasida vositalarni jamg’arish bn bog’liq bo’lgan ma’lumotlarni qayta ishlash xatoliklardagi - yo’qotish riski. ====
+
+zararsiz tarzda investitsiya qilingan vositalarni investor tomonidan chiqarishni bildiruvchi barcha investitsion jamga’rmalarning umumiy riski
+====
+jamg’arish uchun boshqa obyektlarga nisbatan obyekt tanlashda noto’g’ri olingan risk
+====
+loyihaning o'ziga xos xususiyatlari bilan belgilanadi;
+
++++++
+
+Quyida sanab o’tilgan qaysi risklar tashqi risklar sirasiga kiradi?
+====
+#texnik
+====
+tashkiliy
+====
+siyosiy
+====
+texnologik
+
++++++
+
+Loyiha ishtirokchisi kim?
+====
+#loyiha boshqaruvi guruhi a'zolari va amalga oshiruvchilar.
+====
+loyiha ishida bevosita ishtirok etuvchi shaxslar;
+====
+loyihani amalga oshirishda ishtirok etgan yoki uning natijalari yoki bajarilishiga bog'liq bo'lgan shaxslar yoki tashkilotlar;
+====
+loyihani amalga oshirishda bevosita ishtirok etuvchi tashkilotlar;
+
++++++
+
+Loyihaning hayot sikli fazalari:
+====
+#g'oya, amalga oshirish, banket, xarajatlarni hisoblash va qarzlarni to'lash.
+====
+qurish, topshirish, ekspluatatsiya, rekonstruksiya;
+====
+Oldindan investitsiya qilish, rejalashtirish, amalga oshirish, tugatish;
+====
+rejalashtirish, qurish, obyektni topshirish, ekspluatatsiya;
+
++++++
+
+Ichki xavflarga xos bo'lgan harakterlarni ifodalash:
+====
+#Boshqarib bo'ladi.
+====
+Boshqarib bo'lmaydi;
+====
+Boshqarib ketadi.
+====
+Iqlim sharoitlari hisobga olinadi;
+
++++++
+
+Loyihani amalga oshirishda ko'proq xavf ostida bo'lishadi:
+====
+#pudratchilar
+====
+Ijrochilar;
+====
+Loyiha ishtirokchilari;
+====
+Investorlar va mijozlar;
+
++++++
+
+Xavf ehtimolini quyidagi usul bilan baholash mumkin emas:
+====
+#Ekspert usul bilan;
+====
+Ehtimollik bilan;
+====
+Statik usul bilan;
+====
+Fizik usul bilan;
+
++++++
+
+Ish faoliyat turiga ega - "Qatilgan intensivlik"
+====
+#resurslar miqdori.
+====
+resurslardan foydalanish intensivligi;
+====
+davomiyligi;
+====
+resurslardan foydalanishning davomiyligi va intensivligi;
+
++++++
+
+Loyiha boshqaruvidagi integratsiya hujjati
+====
+#ish hujjatlari.
+====
+shartnoma;
+====
+tijorat sirini oshkor qilmaslik to'g'risidagi shartnoma;
+====
+loyiha rejasi;
+
++++++
+
+Xodimlarni taqsimlash boshqaruv rejasi bo'lishi mumkin
+====
+#Yuqoridagilarning barchasi.
+====
+umumiy yoki xususiy;
+====
+loyiha ehtiyojlaridan kelib chiqqan holda rasmiy yoki norasmiy, juda batafsil yoki keng miqyosda moslashtirilgan;
+====
+tijorat yoki notijorat;
+
++++++
+
+Ehtimoliy usullar ...
+====
+#noyob loyihalar uchun ishlatiladi.
+====
+mos ehtimollik modellarini tanlash va ularning parametrlarini baholashga asoslangan.
+====
+barcha kuzatishlar natijasida xavf hodisasining yuzaga kelish ehtimolligiga asoslanadi.
+====
+tijorat yoki notijorat;
+
++++++
+
+Risklarni boshqarish quyidagi tartiblardan iborat:
+====
+#riskli hodisalarga javob berishni rejalashtirish va monitoring
+====
+riskli hodisalarni aniqlash.
+====
+risklarni miqdoriy betlash
+====
+risklarni miqdoriy baholash
+
++++++
+
+Ishning qaysi turi loyihaning boshqa ishlarining bajarilishiga va davomiyligiga bog'liq
+====
+#manbaga asoslangan
+====
+vexa
+====
+gamak
+====
+vazifaga asoslangan
+
++++++
+
+Loyiha bosqichi nima?
+====
+#natijaga erishish uchun mo'ljallangan har qanday mantiqiy bog'liq operatsiyalar to'plami.
+====
+loyihani amalga oshirish uchun ketgan vaqt oralig'i.
+====
+har qanday ish to'plami
+====
+mantiqiy munosabatlarga ega bo'lgan ishlarning har qanday to'plami.
+
++++++
+
+Quyidagilardan qaysi biri loyiha tashkiliy tuzilmasining afzalligi emas?
+====
+#Odamlar va uskunalarni ulash loyihalar orqali amalga oshiriladi
+====
+Jamoada ishlash va daxldorlik hissi
+====
+Aloqa liniyalarining qisqarishi
+====
+Aloqa liniyalarining uzayish
+
++++++
+
+Loyiha sifatini nazorat qilishni tashkil etish va o'tkazish jarayonlari qanday?
+====
+#Hisobot bilan oraliq va yakuniy sifat nazorati
+====
+nuqsonlar va og'ishlar ro'yxatini tuzish
+====
+berilgan natijalarning belgilangan talablarga muvofiqligini tekshirish
+====
+olingan natijalarning belgilangan talablarga muvofiqligini tekshirish
+
++++++
+
+Loyihaning dastlabki bosqichida resurslarning qaysi qismi sarflanadi?
+====
+#9-15 %
+====
+2-6 %
+====
+15-30 %
+====
+45 % gacha
+
++++++
+
+Loyihani amalga oshirishga qaysi omillar ko'proq ta'sir qilmoqda?
+====
+#Iqtisodiy va huquqiy
+====
+Iqtisodiy va moliyaviy
+====
+Iqtisodiy va ijtimoiy
+====
+Iqtisodiy va tashkiliy
+
++++++
+
+Investitsion loyihalarning ajralib turadigan xususiyati nimada:
+====
+#Noaniqlik va xavflarning yuqori darajasi
+====
+Kichik byudjet
+====
+Katta byudjet
+====
+Loyihani amalga oshirishda majburiy foydani olish maqsadi
+
++++++
+
+Tanqidiy yo'l usuli nima?
+====
+#Loyihani amalga oshirish muddatini qisqartirish uchun optimallashtirish
+====
+Mumkin bo'lgan xavflarni aniqlash
+====
+Loyihaning ayrim jarayonlarini amalga oshirish muddatlarini aniqlash
+====
+Mumkin bo'lmagan xavflarni aniqlash
+
++++++
+
+Ta'rif berilgan atamani tanlang: "loyiha egasi va uning natijalarining kelajakdagi foydalanuvchisi"
+====
+#Loyiha mijozi
+====
+loyiha investori
+====
+Muvofiqlashtiruvchi kengash
+====
+Loyiha kuratori
+
++++++
+
+Loyihaning tarkibiy tuzilishi:
+====
+#Loyihaning butun ierarxik tuzilmasi grafikalari va sxemalari shaklida ingl.
+====
+Loyihani amalga oshiruvchi jamoaning vakolatlarini tashkil etish va delegatsiya qilish
+====
+Loyihani amalga oshirish uchun zarur bo'lgan resurslarni olish va sarflash jadvali
+====
+Resurslarni olish va sarflash jadvali
+
++++++
+
+Loyihani amalga oshirish boshlanishi va tugatish o'rtasidagi vaqt oralig'i nima?
+====
+#Loyihaning hayot davri
+====
+Loyiha natijasi
+====
+Loyiha tugashi
+====
+Loyiha bosqichi
+
++++++
+
+Microsoft Projectda quyidagi resurslarning qay birida bor:
+====
+#Xom ashyoviy, mehnat, qimmat
+====
+so'z, moliyaviy, vaqtinchalik
+====
+Xom ashyoviy, mehnat, vaqtinchalik
+====
+mehnat, moliyaviy, vaqtinchalik
+
++++++
+
+Bitta loyiha boshqaruvchisi boshqa ishchi yo’q bo’lgan loyiha …….
+====
+#Zaif
+====
+Qulay
+====
+Bitta
+====
+Oddiy
+
++++++
+
+Loyihani reklama qilishga yordam beradigan chegirma nomi nima?
+====
+#Marketing
+====
+Dastur
+====
+Loyiha
+====
+Rag'batlantirish
+
++++++
+
+Loyihaning maqsad va vazifalariga muvofiq ishlashga qodir bo'lgan jamoani tashkil qilishda loyiha menejerini qo'llab-quvvatlovchi ikkita vosita tashkilotning tizimli sxemasi va ...
+====
+#Mas'uliyat matritsasi
+====
+Ish borishi
+====
+Kattaroq grafik
+====
+Ish tavsifi
+
++++++
+
+Loyihani ishlab chiqishdagi holatilari -bu loyiha …..dir
+====
+#Fazalar
+====
+Bosqichlar
+====
+Bo'shliqlar
+====
+Farazlar
+
++++++
+
+Amalga oshirilayotgan loyihaning har bir ishtirokchisidan keladigan pul oqimlari qanday nomlanadi?
+====
+#Kirim pullar
+====
+Qarzlar
+====
+Aktiv pullar
+====
+Omonatlar
+
++++++
+
+Bir yoki bir nechta loyihalarni amalga oshirishda doimiy ishtirok etadigan tashkilotlarda qo'llaniladigan loyihalarni boshqarishning tashkiliy tuzilmasi qanday nomlanadi?
+====
+#Loyihani to'liq boshqarish
+====
+Adokratik
+====
+Onalik
+====
+Demokratik
+
++++++
+
+Buyurtmachi o'zining yakuniy narxini asl nusxasiga nisbatan oshirishga qaror qilishi mumkin bo'lgan loyiha:
+====
+#Qisqa muddatli
+====
+Amaliy
+====
+Oddiy
+====
+Uzoq muddat
+
++++++
+
+Loyihaning virtual ofisini yaratish jarayonida resurslarni birlashtirish hududiy mustaqillik bilan tavsiflanadi.
+====
+#Hududiy
+====
+Tashkiliy
+====
+Moliyaviy
+====
+Administratsiyaviy
+
++++++
+
+Loyihaning tarmoq jadvali nima uchun mo'ljallangan
+====
+#loyiha ishlari kompleksini amalga oshirish uchun vaqt sarfini boshqarish
+====
+material xarajatlarni boshqarish
+====
+loyiha jamoasining nizolarini boshqarish
+====
+risklarni boshqarish
+
++++++
+
+Ishning tarkibiy dekompozitsatsiyasi turini ayting
+====
+#Mahsulot ITD
+====
+Moliyaviy ITD
+====
+Tashkiliy ITD
+====
+Funktsional ITD
+
++++++
+
+Ta'rif berilgan atamani tanlang: "loyihani o'zi yoki qarz mablag'lari hisobidan moliyalashtiradi"
+====
+#Loyiha investori
+====
+Loyiha kuratori
+====
+Muvofiqlashtiruvchi kengash
+====
+Loyiha jamoasi
+
++++++
+
+Quyidagi zahiralardan qaysi biri loyiha tarmoq jadvalining parametri emas
+====
+#to'liq emas
+====
+to'liq
+====
+kafolatli
+====
+mustaqil
+
++++++
+
+Loyihani boshqarish usulining maqsadini tanlang: Kritik yo'l usuli
+====
+#loyihani ishlab chiqish muddatini minimal darajaga qisqartirish
+====
+loyihani amalga oshirish uchun asos bo'lgan ishlarni, ularning davomiyligini, zarur resurslarni hisobga olgan holda aniq va to'liq loyiha jadvalini olish.
+====
+dasturning amalga oshirish uchun asos bo'lgan ishlarni, ularning davomiyligini, 
+zarur resurslarni hisobga olgan holda aniq va to'liq loyiha jadvalini olish.
+====
+loyihalarning davomiyligini, zarur resurslarni hisobga olgan holda aniq va to'liq loyiha jadvalini olish.
+
++++++
+
+Ta'rif berilgan atamani tanlang: "loyihani boshqarishda ishtirok etadigan loyiha jamoasi a'zolari"
+====
+#Loyiha boshqaruvi jamoasi
+====
+Loyiha tashabbuskori
+====
+Loyihalar bo'yicha menejer
+====
+Loyiha mahsulotning foydalanuvchilari
+
++++++
+
+Quyidagilardan qaysi biri loyiha boshqaruvi tashkiliy tuzilmasining turiga kirmaydi
+====
+#strategik
+====
+loyiha
+====
+matritsa
+funksional
+
++++++
+
+Loyihani boshqarishning funktsional strukturasining kamchiliklari
+====
+#loyiha ishtirokchilari o'rtasidagi o'zaro aloqalar sonini oshiradi
+====
+Loyiha jamoasi a'zolarining loyiha oxirida martaba haqida tashvishlarini kamaytiradi.
+====
+loyihadagi ishlarning ishlab chiqarilishiga yordam beradi
+====
+funktsional izolyatsiyani rag'batlantiradi
+
++++++
+
+Ta'rif berilgan atamani tanlang: "uni amalga oshirishda ishtirok etgan loyiha ishtirokchilari"
+====
+#Loyiha jamoasi
+====
+Loyiha kuratori
+====
+Loyihaning investori
+====
+Muvofiqlashtiruvchi kengash
+
++++++
+
+Ta'rif berilgan atamani tanlang: "loyihaning barcha natijalari uchun shaxsan mas'ul bo'lgan loyihani boshqarish guruhi a'zosi"
+====
+#Loyiha menejeri
+====
+Loyiha tashabbuskori
+====
+Loyihaning mijozi
+====
+Loyiha mahsulotning foydalanuvchilari
+
++++++
+
+Loyihani tarmog’ini rejalashtirishda "voqea" elementi bilan tavsiflanadi...
+====
+#raqam, erta va kech
+====
+vazifa va maqsad
+====
+foyda va zarar
+====
+muddati va zaxiralari
+
++++++
+
+Quyidagilardan qaysi biri Davlat standarti R ga muvofiq mijozning qiziqishini aniqlaydi Loyiha boshqaruvi PORTFELI BOSHQARUVGA TALABLAR
+====
+#qiziqish yo'q
+====
+dividendlar bilan
+====
+daromad bilan
+====
+foyda bilan

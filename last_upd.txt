@@ -1,0 +1,598 @@
+Qiyinlik darajasi – 1
+Loyihani rejalashtirish quyidagi tartib bilan boshlanadi:
+joriy jadval va resurs ma'lumotlarini direktiv jadval bilan solishtirish.
+
+Tanlangan ish uchun faoliyat turi "ruhsat etilgan miqdor" bo'lsa va bir xil ish uchun boshqa resurs qo'shilsa, ma'lumotlar qanday o'zgaradi?
+rejalashtirilgan miqdor.
+
+Loyiha ishi nima?
+resurslarning bajarilishi uchun loyihaning elementi.
+
+Loyiha bilan ishlashda “ Kritik yo'l ” bu -
+loyihaning asosiy bosqichlari ko'rsatkichi.
+
+Investitsion risk turi va uning ta'rifi o'rtasidagi muvofiqlikni ko'rsating (Kapital riski)
+kompyuter sistemasida vositalarni jamg’arish bn bog’liq bo’lgan ma’lumotlarni qayta ishlash xatoliklardagi - yo’qotish riski.
+
+Quyida sanab o’tilgan qaysi risklar tashqi risklar sirasiga kiradi?
+texnik
+
+Tashqi xavflarga xos xususiyatga e'tibor bering:
+loyihaning tashqi muhiti tomonidan yaratilgan;
+
+Loyiha ishtirokchisi kim?
+loyiha boshqaruvi guruhi a'zolari va amalga oshiruvchilar.
+
+Loyihaning hayot sikli fazalari:
+g'oya, amalga oshirish, banket, xarajatlarni hisoblash va qarzlarni to'lash.
+
+Ichki xavflarga xos bo'lgan harakterlarni ifodalash:
+Boshqarib bo'ladi.
+
+Loyihani amalga oshirishda ko'proq xavf ostida bo'lishadi:
+pudratchilar
+
+Xavf ehtimolini quyidagi usul bilan baholash mumkin emas:
+Ekspert usul bilan;
+
+Ish faoliyat turiga ega - "Qatilgan intensivlik"
+resurslar miqdori.
+
+Loyiha boshqaruvidagi integratsiya hujjati
+ish hujjatlari.
+
+Xodimlarni taqsimlash boshqaruv rejasi bo'lishi mumkin
+Yuqoridagilarning barchasi.
+
+Ehtimoliy usullar ...
+noyob loyihalar uchun ishlatiladi.
+
+Risklarni boshqarish quyidagi tartiblardan iborat:
+riskli hodisalarga javob berishni rejalashtirish va monitoring
+
+Ishning qaysi turi loyihaning boshqa ishlarining bajarilishiga va davomiyligiga bog'liq
+manbaga asoslangan
+
+Loyiha bosqichi nima?
+natijaga erishish uchun mo'ljallangan har qanday mantiqiy bog'liq operatsiyalar to'plami.
+
+Quyidagilardan qaysi biri loyiha tashkiliy tuzilmasining afzalligi emas?
+Odamlar va uskunalarni ulash loyihalar orqali amalga oshiriladi
+
+Loyiha sifatini nazorat qilishni tashkil etish va o'tkazish jarayonlari qanday?
+Hisobot bilan oraliq va yakuniy sifat nazorati
+
+Loyihaning dastlabki bosqichida resurslarning qaysi qismi sarflanadi?
+9-15 %
+
+Loyihani amalga oshirishga qaysi omillar ko'proq ta'sir qilmoqda?
+Iqtisodiy va huquqiy
+
+Investitsion loyihalarning ajralib turadigan xususiyati nimada:
+Noaniqlik va xavflarning yuqori darajasi
+
+Tanqidiy yo'l usuli nima?
+Loyihani amalga oshirish muddatini qisqartirish uchun optimallashtirish
+
+Loyihaning tarkibiy tuzilishi:
+Loyihaning butun ierarxik tuzilmasi grafikalari va sxemalari shaklida ingl.
+
+Loyihani amalga oshirish boshlanishi va tugatish o'rtasidagi vaqt oralig'i nima?
+Loyihaning hayot davri
+
+Microsoft Projectda quyidagi resurslarning qay birida bor:
+Xom ashyoviy, mehnat, qimmat
+
+Bitta loyiha boshqaruvchisi boshqa ishchi yo’q bo’lgan loyiha …….
+Zaif
+
+Loyihani reklama qilishga yordam beradigan chegirma nomi nima?
+Marketing
+
+Loyihaning maqsad va vazifalariga muvofiq ishlashga qodir bo'lgan jamoani tashkil qilishda loyiha menejerini qo'llab-quvvatlovchi ikkita vosita tashkilotning tizimli sxemasi va ...
+Mas'uliyat matritsasi
+
+Loyihani ishlab chiqishdagi holatilari -bu loyiha …..dir
+Fazalar
+
+Amalga oshirilayotgan loyihaning har bir ishtirokchisidan keladigan pul oqimlari qanday nomlanadi?
+Kirim pullar
+
+Bir yoki bir nechta loyihalarni amalga oshirishda doimiy ishtirok etadigan tashkilotlarda qo'llaniladigan loyihalarni boshqarishning tashkiliy tuzilmasi qanday nomlanadi?
+Loyihani to'liq boshqarish
+
+Buyurtmachi o'zining yakuniy narxini asl nusxasiga nisbatan oshirishga qaror qilishi mumkin bo'lgan loyiha:
+Qisqa muddatli
+
+Loyihaning virtual ofisini yaratish jarayonida resurslarni birlashtirish hududiy mustaqillik bilan tavsiflanadi.
+Hududiy
+
+Ta'rif berilgan atamani tanlang: "loyiha egasi va uning natijalarining kelajakdagi foydalanuvchisi"
+Loyiha mijozi
+
+Loyihaning tarmoq jadvali nima uchun mo'ljallangan
+loyiha ishlari kompleksini amalga oshirish uchun vaqt sarfini boshqarish
+
+Ishning tarkibiy dekompozitsatsiyasi turini ayting
+Mahsulot ITD
+
+Ta'rif berilgan atamani tanlang: "loyihani o'zi yoki qarz mablag'lari hisobidan moliyalashtiradi"
+Loyiha investori
+
+Quyidagi zahiralardan qaysi biri loyiha tarmoq jadvalining parametri emas
+to'liq emas
+
+Loyihani boshqarish usulining maqsadini tanlang: Kritik yo'l usuli
+loyihani ishlab chiqish muddatini minimal darajaga qisqartirish
+
+Ta'rif berilgan atamani tanlang: "loyihani boshqarishda ishtirok etadigan loyiha jamoasi a'zolari"
+Loyiha boshqaruvi jamoasi
+
+Quyidagilardan qaysi biri loyiha boshqaruvi tashkiliy tuzilmasining turiga kirmaydi
+strategik
+
+Loyihani boshqarishning funktsional strukturasining kamchiliklari
+loyiha ishtirokchilari o'rtasidagi o'zaro aloqalar sonini oshiradi
+
+Ta'rif berilgan atamani tanlang: "uni amalga oshirishda ishtirok etgan loyiha ishtirokchilari"
+Loyiha jamoasi
+
+Quyidagi byudjet shakllaridan qaysi biri mavjud emas?
+xarajatlar byudjeti
+
+Ta'rif berilgan atamani tanlang: "loyihaning barcha natijalari uchun shaxsan mas'ul bo'lgan loyihani boshqarish guruhi a'zosi"
+Loyiha menejeri
+
+Loyihani tarmog’ini rejalashtirishda "voqea" elementi bilan tavsiflanadi...
+raqam, erta va kech
+
+Quyidagilardan qaysi biri Davlat standarti R ga muvofiq mijozning qiziqishini aniqlaydi Loyiha boshqaruvi PORTFELI BOSHQARUVGA TALABLAR
+qiziqish yo'q
+
+Loyiha ofisi bu
+yordam beruvchi bo'lim - loyihalarni ma'muriy boshqarish jarayonini osonlashtiradi ..
+
+Quyidagilardan qaysi biri Davlat standarti R ga muvofiq buyurtmachining qiziqishini belgilaydi Loyiha boshqaruvi LOYIHALARNI BOSHQARUVGA TALABLAR
+loyiha mahsuloti
+
+Ta'rif berilgan atamani tanlang: "loyiha ishini amalga oshirish uchun mas'ul bo'lgan bosh kompaniya rahbariyatining vakili".
+Loyiha kuratori
+
+Yakunlash bosqichi tushunchasini tanlang
+biz loyiha kontseptsiyasida o'ylab topilgan mahsulotni aniq ishlab chiqqanimizni tasdiqlash
+
+Loyiha risklarini boshqarish - bu
+yo'qotishlarni kamaytirish va rentabellikni oshirishni ta'minlash uchun vaziyatni aniqlash, aniqlash, tahlil qilish, baholash, qayta ishlash, xavflarni monitoring qilish va axborot almashinuvi vazifalariga siyosat, tartib va boshqaruv usullarini tizimli qo'llash.
+
+Quyidagilardan qaysi biri loyiha xavfini kamaytirish yo'llariga kiradi?
+diversifikatsiya
+
+Ta'rif berilgan atamani tanlang: "mijoz yoki loyihaning yakuniy mahsulotining boshqa xaridorlari"
+Loyiha mahsulotining foydalanuvchilari
+
+Qanday asosiy xabar turlari mavjud:
+kirish xabarlari va chiqish xabarlari
+
+Protsessual interfeyslar necha turga bo'linadi?
+3.0
+
+Vizual dizayni yaratish uchun o'zaro bog'liq bo'lgan asosiy nechta elementlar mavjud?
+6.0
+
+To'g'ri protsessual interfeys turlarini tanlang:
+ibtidoiy; menyu; bepul navigatsiya bilan
+
+Interfeys dizayniga yondashuvlar:
+muhandislik (avtomatlashtirilgan) va kognitiv (insonga asoslangan)
+
+Interfeys dizayni necha qonunlardan iborat?
+2.0
+
+Moqups bu - ...
+veb-ilovani sayt yoki mobil ilovaning prototipini yaratish vositasi
+
+Evristikani ko`rsating
+amaliy muammolarni hal qilishni osonlashtiradigan usullar va usullar to'plami
+
+Funktsionallik bu...
+dastur ishlab chiquvchilari ko'pincha e'tibor beradigan omil
+
+Nechta Vizual dizayni yaratish tamoyillari mavjud?
+9.0
+
+Fokus guruhi bu...
+bu ma'lum bir mavzu bo'yicha fikrlarini so'ragan foydalanuvchilarning norasmiy uchrashuvi
+
+Prototip yaratish nima?
+turli darajadagi ishonchlilik interfeyslarining maketlarini yaratishga imkon beradi: tezkor eskizlar va qog'oz prototiplaridan tortib, maxsus dasturlar yordamida interaktiv maketlarga
+
+Global prototiplar bular...
+butun tizimni modellashtirish. Ulardan foydalanish foydalanuvchi interfeysining to'liqligi va izchilligi bilan bog'liq muammolarni aniqlashga imkon beradi
+
+Storyboard bu...
+foydalanish tavsifidagi asosiy fikrlarni aks ettiruvchi eskizlar yoki skrinshotlar
+
+Metafora nima?
+real dunyo ob'ektlari yoki jarayonlarining analoglari
+
+Tabiiy-intuitiv o'zaro ta'sir nima?
+bu insonning tabiiy usullari va interfeyslari orqali kompyuter bilan o'zaro aloqalar sohasidagi evolyutsiya
+
+SDK nima?
+dasturiy ta'minotni yozish uchun ishlab chiqish to'plami
+
+Bannerning ko`rligi nima?
+foydalanuvchilar reklama kabi ko'rinadigan har qanday narsani e'tiborsiz qoldiradilar
+
+O'z-o'ziga murojaat qilish effekti nima?
+Ushbu effekt veb uchun matnlar yaratishda ayniqsa muhimdir, chunki u muallif va o'quvchi o'rtasidagi aloqani sezilarli darajada yaxshilaydi
+
+Har qanday loyiha uchun yaxshi asos bo'lishi mumkin bo'lgan nechta ma'lumotlar arxitekturasi printsipi mabjud?
+8.0
+
+Yaroqlilikning asosiy mezonlari quyidagilardir...
+samaradorlik, samaradorlik va foydalanuvchidan qoniqish
+
+Yaroqlilik testi bu...
+odamlar sun'iy ob'ektdan maqsadga muvofiq foydalanishlari mumkinligini aniqlash uchun o'tkazilgan tajriba, ya'ni foydalanishga yaroqlilik testi ob'ektdan foydalanishni o'lchaydi
+
+Vazifalar paneli bu...
+ilovalar tugmachalarini joylashtiradigan paneli
+
+Tizimdan foydalanishga nima ta'sir qiladi?
+Kompyuter qulay bo'lishi uchun foydalanuvchi tizim bilan aloqa qilishda o'zini qulay his qilishi kerak
+
+Petri tarmoqlari yordamida ierarxik dialog modelini yaratish mumkin
+4.0
+
+Tizim darajasi bu...
+dialogni tashkil etish printsipi, dialogning dinamik tomoni
+
+Jarayonlar darajasi nima vazifani bajaradi?
+yakka jarayonlarni tavsiflaydi
+
+Ma'lumotlar arxitekturasi nechta tushunchalarni o'z ichiga oladi?
+3.0
+
+Sayt tarkibini tahlil qilishning necha turlari mavjud?
+2.0
+
+SEOning asosiy maqsadi nima?
+sayt ma'lumotlarini qidiruv mashinalari uchun imkon qadar moslashtirish hisoblanadi
+
+Interaktiv dizayn quyidagilarning qaysi birida qo'llaniladi?
+veb-saytlar, dasturiy mahsulotlar, interfeyslar, o'yinlar ishlab chiqishda
+
+Dasturlashtirishning asosan nechta ko’rinsh bo’ladi?
+2.0
+
+Translyatorlarning asosan nechta ko’rinsh bo’ladi?
+2.0
+
+Konteks tahlil nima?
+Tekstning taxlili
+
+Kontent tahlil nima?
+Ma`lumotlar taxlili
+
+Saytlarda shaxsiyat tushunchasi nima?
+Foydalanuvchilarning tizimni o`zlariga moslashtirishlari
+
+Statik veb saytlar qanday saytlar?
+Doimiy o`zgarmas saytlar
+
+Dinamik veb saytlar qanday saytlar?
+Doimiy o`zgaruvchan saytlar
+
+Loyiha menejerining asosiy mahorati nimada
+Mijoz tilini mutaxassislarga tarjima qilishda
+
+GIT nima?
+Dastur kodining versiyalarini saqlash tizimi
+
+Loyihani amalga oshirish muddatlarini kuzatib borish imkonini nimada ko’rish mumkin?
+Grafik diagrammada (diagramma)
+
+Belgilangan byudjetsiz uzoq muddatli loyiha uchun qaysi rivojlanish metodologiyasi eng yaxshisidir?
+Scrum
+
+Funktsional (texnik) vazifaning har bir bandining tavsifi qanday savollarga javob berishi kerak?
+Qayerda? Nima? Qanaqasiga?
+
+Avtomatlashtirilgan tizimlarni testlashda qaysi termin ishlatiladi?
+Selenium
+
+Yoki siz buni allaqachon qilyapsiz, yoki yaqinda qilasiz. Eng ko'p qo'llaniladigan narsalar bular….
+backup lar
+
+Belgilangan xarajat va muddatga ega bo'lgan qisqa muddatli loyihani mutaxassislar bilan qanday tanlagan maqul ?
+Autsorsing
+
+Agar mutaxassis bunday funktsiyani amalga oshirish mumkin emasligini aytgan bo'lsa qanday yo’l tutgan maqul?
+Sababini aniqlash lozim
+
+Mijoz bilan ishlashni boshlaganingizda, ishni nimadan boshlashingiz maqul?
+O'z tajribangizni "soting"
+
+Mijoz topshiriqlarini bajarish uchun belgilangan muddatlarni qanday belgilashi kerak?
+bufer bilan belgilash shart
+
+Loyiha menejeri nima uchun loyihada ma'lum bir funktsional yechim borligini so'ragan savoliga qanday javob berish kerak?
+mantiqiy asoslash
+
+Xizmatingiz foydalanuvchilari orasida xatolik yuzaga kelganda qanday savolga javob berish lozim?
+Boshqa foydalanuvchilar ham xuddi shunday xatolikka duch kelishyaptimi?
+
+Agar loyiha shartlari kechiktirilsa, qanday yo’l tutiladi?
+Mutaxassislarni tez-tez chaqirish
+
+Mijoz "biz buni dastlab muhokama qildik" argumenti bilan qo'shimcha funktsiyalarni bepul bajarishni so'rasa, loyiha menejerining qaysi javobi eng to'g'ri deb bilasiz.
+Dasturchilardan surashi
+
+Agar mijozda shoshilinch muammo bo'lsa qanday yo’l tutishimiz lozim deb bilamiz:
+Avvallo biz mijozga tushuntiramiz, keyin kelajakda qanday qilib oldini olish bo'yicha yechimlarni beramiz.
+
+Cheklangan vaqt va ko'p miqdordagi vazifalar berilsa nima qilasiz?
+Vazifalarni bajarish rejasini tuzing va ularga qatiy rioya qiling
+
+Jamoa bilan muloqotning eng samarali shakli nimada deb o’ylaysiz?
+Uchrashuvlarni amalga oshirishda
+
+Savdo jarayonini eng muhimligi nimada
+Ehtiyojlarni aniqlashda
+
+Loyihaning qiymatini aniqlash ko’proq nimaga bog’liq deb hisoblaysiz?
+Loyihani amalga oshirish muddati va funksionalligiga
+
+Ma'lumotlar almashishda nimani ta'minlash muhim?
+Ma’lumotlarni almashtirish uchun yuklash manbasida mavjud ma’lumotlar
+
+Jamoaning faolligni jamoaning qay bir a’zosi bilan bog’lanishini ma’qul ko’rasiz?
+Jamoadagi noyob va qimmat azosi bilan (senior)
+
+Dasturiy loyihalarini ishlab chiqishdagi muddat muammolari kimlarga bog’lik
+Dasturni ishlab chiqadigan jamoaning barcha a’zolariga
+
+Dasturni Testlash jarayonida dastur kodlarini 6 marta o’zgartirgan bo’lsangiz qanday yo’l tutgan ma’qul deb hisoblaysiz.
+Har bir jarayon kodini saqlab borish
+
+Loyiha menedjeri ish vaqti to’g’ri keltirilgan qatorni ko’rsating
+7 kun / 24 soat
+
+Loyihalarning sifat ko’rsatkichi kimga ko’proq bog’liq deb o’ylaysiz?
+Loyiha menedjeriga
+
+Ishlab chiqilgan dasturiy maxsulotni teslashda kimlardan foydalanishni to’g’ri deb hisoblaysiz?
+Dastur foydalanuvchilaridan
+
+Loyiha menejeri, nima uchun loyihada ma'lum bir funktsional yechim borligini so'ragan, savolga qanday to'g'ri javob berish maqul.
+mantiqiy asoslash
+
+Dasturiy maxsulotning yashash ssikli nima ?
+Dasturiy maxsulotni ishlab chiqishdan toki undan foydalanilmagunga qadar ketgan vaqt
+
+Dasturiy maxsulot sifat mezonini Fil Krosbi qanday ta’riflagan ?
+Sifat - bu mijozlar ehtiyojini qondirish.
+
+Dasturiy maxsulot sifat mezonini Vatt Hempfrey qanday ta’riflagan ?
+Sifat - bu foydalanishning ajoyib darajasiga erishishdir.
+
+Dasturiy maxsulot sifat mezoninidagi Baldridge mezoni qanday ta’riflagan ?
+Mijoz tomonidan boshqariladigan sifat
+
+Dasturiy maxsulot sifat mezoninidagi ISO 9001 sifat menejmenti tizimi qanday ta’riflagan ?
+Sifat - bu o'ziga xos xususiyatlarning talablarga javob berish darajasi.
+
+Dasturiy ta’minot sifatini nazorat qilishdagi asosiy mezonlarni ko’rsating
+Sifat asosi, Sifatni boshqarish jarayoni, аmaliy mulohazalar
+
+Joriy vaqt –
+Joriy ish uchun hisob-kitob jadvali boshlangan vaqt.
+
+Ob'ektni boshqarish qanday tartib-qoidalarni o'z ichiga oladi?
+ishlarni boshlash, mavzuni rejalashtirish, mavzuni aniqlash, mavzuni tasdiqlash va mavzu sohasidagi o'zgarishlarni nazorat qilish.
+
+Loyihani boshlash bosqichi ..
+loyihani amalga oshirish jarayonida bajarish uchun mo'ljallangan hujjatlarni ishlab chiqish va tasdiqlash.
+
+WBS-tuzilmasi (loyiha ishining tarkibiy parchalanishi) nima ekanligini qanday tushunasiz?
+sohadagi dispersiya sabablarini tahlil qilish uchun ishlatiladigan ramka.
+
+Xarajat omili - bu...
+biznes qiymatiga ta'sir qiluvchi vaqt ko'rsatkichi.
+
+Chizish uchun "Aloqalarni rejalashtirish" bosqichi kerak
+loyiha rejasi.
+
+Loyihaning barqarorligi bu ...
+loyihaning asosiy xususiyatlarining xavf parametrlarining ozgina o'zgarishiga zaif reaktsiyasi.
+
+“Taraqqiyotni baholash va ko‘rsatish” bosqichi quyidagilar uchun zarur:
+kommunikatsiyalarni boshqarish rejasini qayta ko'rib chiqish.
+
+Grafiklarni aks ettirish shakllari va vositalarini ayting:
+yuqoridagilarning barchasi.
+
+Loyihani loyihalash bosqichida eng katta xavf hisoblanadi
+pudratchilar.
+
+Resurslar qanday tasniflanadi?
+mehnat va mehnatdan tashqari.
+
+Ekonomik stabillikni tasdiqlash uchun … kerak.
+zarar ko`rmaslik nu`tasi sotuv korsatkichi nuktasidan kichik nuqtasida ishlab chi`arish, Zarar kormaslik nuqtasidan qancha uzoqrok bo`lsa shunchalik proyekt stabil bo`ladi.
+
+Zarar ko'rmaslik nuqtasi quyidagilarni harakterlaydi:
+Mahsulotdan kelgan foyda nolga teng bo'lgan holatdagi sotuv hajmi.
+
+Loyiha jamoasi va "Loyihani boshqarish jamoasi" tushunchalarini taqqoslang:
+ba'zan mos keladi.
+
+Loyihaning hayot sikli nimadan iborat?
+uni amalga oshirish jarayonida operatsiyalar majmui
+
+“Kommunikatsiyalarni rejalashtirish” bosqichini amalga oshirish natijasi nima?
+loyiha hisobotlari.
+
+Analoglar usuli …… ga asoslanadi.
+amalga oshirilgan loyihalar tajribasi.
+
+Loyihani boshqarish metodologiyasida loyiha degani
+loyiha-smeta hujjatlari majmui.
+
+Kritik yo'l kechiktirilsa nima sodir bo'ladi?
+hech qanday o'zgarishlar bo'lmaydi.
+
+Ishni keyingi ishning erta boshlanishini kechiktirmasdan kechiktirish mumkin bo'lgan vaqt:
+vaqt zaxirasi.
+
+Loyihada qatnashuvchilar :
+Loyihada bevosita ishtirok etuvchi yoki loyihani amalga oshirish jarayonida manfaatlariga daxldor boʻlishi mumkin boʻlgan jismoniy va yuridik shaxslar
+
+Loyihani boshlash - bu loyihani boshqarish jarayonining bosqichi bo'lib, buning natijasida:
+Loyihaning boshlanishi ruxsat etiladi.
+
+Loyiha ishtirokchilarining o'zaro kelishuvga asoslangan va foydali, lekin kapital talab qiluvchi loyihani amalga oshirishga qaratilgan vaqtinchalik ixtiyoriy birlashmasi qanday nomlanadi?
+Konsortsium
+
+Loyihaning hayot aylanishining yakuniy bosqichi qabul qilish testlari va ..
+Tajribali eksplatuatsiyalash
+
+Quyidagilardan qaysi biri loyihani moliyalashtirish shakllaridan biri emas
+Qarz oluvchiga cheksiz to'liq murojaat qilish bilan moliyalashtirish
+
+Quyidagilardan qaysi biri faoliyatning muayyan sohalari uchun loyiha menejerining asosiy funktsiyalariga taalluqli emas.
+Loyiha hujjatlarini yaratish va uni buyurtmachi bilan tasdiqlash.
+
+Ta'rif berilgan atamani tanlang: "amalga oshirish uchun loyihalarni tanlaydigan, ish rejalari va ularga o'zgartirishlarni tasdiqlaydigan, kuratorni tayinlaydigan va loyiha menejerini tasdiqlaydigan jamoaviy organ".
+Muvofiqlashtiruvchi kengash
+
+Loyihani amalga oshirishdagi tavakkalchilik
+uni amalga oshirish noaniq bo'lgan holatlarda kutilayotgan daromadni yo'qotish shaklida salbiy moliyaviy oqibatlarning yuzaga kelish ehtimoli.
+
+To’gri ta’rifni tanlang: loyihalar dasturi
+umumiy maqsad va ularni amalga oshirish shartlari bilan birlashtirilgan o'zaro bog'liq loyihalar va turli tadbirlar guruhi
+
+“Loyihaning hayot tsikli” ta’rifini tanlang.
+ketma-ket bosqichlar to'plami, ularning soni va tarkibi loyihada ishtirok etayotgan tashkilot yoki tashkilotlar tomonidan loyihani boshqarish ehtiyojlari bilan belgilanadi.
+
+Risklarni boshqarishda quyidagi risklardan qaysi biri ichki hisoblanadi?
+iqtisodiy
+
+Mijozga topshiriqning holati haqidagi har bir xabar quyidagi so'rovlarga javob berishi kerak
+Qayerda? Nima? Qanaqasiga?
+
+Qanday qilib siz yaxshi loyiha menejeri bo'lishingiz mumkin?
+Dasturiy ta'minotning so'nggi yangiliklarini kuzatib boriganda va ularni jamoangiz ishiga tatbiq etganda, mijozni faqat muhim masalalar bo'yicha bog'lganda, yetkazib berishdan keyin mijozning xohishiga ko'ra uchrashuvga borganda, chunki "mijoz har doim haq" va boshqalarga qaraganda faol bo’lganda.
+
+Loyihalarni ishlab chiqishda eng to’g’ri taqsimotni tanlang
+Mavjud loyihalarni tahlil qilish va hujjatlashtirish 40%, Dasturni ishlab chiqish 20%, testlash va mavjud muammolarni bartaraf etish 40%
+
+Dasturiy loyihalarni baholashda nimalar muhim deb hisoblaysiz.
+Dastur funksionalligiga, ishlab chiqishga ketadigan vaqtga va jamodagi dasturchilar darajasiga
+
+Loyiha boshqaruvi deganda nima tushuniladi?
+rejalashtirilgan rejalarni amalga oshirishni ta'minlaydigan ta'sirlarni shakllantirish.
+
+Vaqtinchalik parametrlar bo'yicha loyihani boshqarish jarayoniga nima kiradi?
+vaqtinchalik parametrlar bo'yicha loyihani boshqarish, loyihani taqvimiy rejalashtirish, loyihani buxgalteriya hisobi, loyihani tahlil qilish va tartibga solish, vaqtinchalik parametrlar bo'yicha loyihani yopish.
+
+Loyihalarni boshqarish dasturiy tizimlarini ko’rsating:
+Open Plan, MS Project, Primavera Project Planner, Spider Project, Time Line ++
+
+Boshqaruvchining loyihani shakllantirish va yaratish jarayonida asosiy vazifasi bo’lib hisoblanadi:
+bir maqsad va qadriyat asosida turli xil tashkiliy va kasbiy savodxonlikka ega bo’lgan odamlardan tashkil topgan, birikkan guruh shakllantirish.
+
+Initsiatsiya bu -
+Loyihani bajarish boshidagi yoki uning biron bir navbatdagi fazasida maqsadga tayanish jarayoni.
+
+Loyihani analiz qilish fazasi -
+Loyihani muvaffaqiyatli amalga oshirilishini ta’minlash maqsadida ta’sir etuvchi omillarni rejalashtirish
+
+Gant diagrammasi nima?
+gorizontal chiziqli diagrammasi loyiha vazifalarini boshlanish va tugash sanalari bunday taqshqati boshqa vaqt parametrlari bilan tavsiflangan vaqt oraliqlari bilan ifodalanadi.
+
+Loyihani boshqarish axborot tizimining vazifalari va xususiyatlarini ayting:
+yuqoridagilarning barchasi.
+
+Qiymatlarni boshqarishning 4 ta asosiy tamoyillarini sanab o‘ting:
+o'z vaqtida, tejamkorlik, asosiy yo'nalishlar, strategiyalar va tuzilmalar.
+
+Investitsion risk turi va uning ta'rifi o'rtasidagi muvofiqlikni ko'rsating (selektiv guruch)
+qimmatli qog'ozni sotishda uning sifatini baholashning o'zgarishi natijasida yo'qotish ehtimoli bilan bog'liq xavf.
+
+Loyiha maqsadi – bu :
+Talablardan kelib chiqqan holdagi qo’yilgan umumiy baho va Loyihani tugallashdagi oxir
+
+Loyiha jarayon faoliyatidan quyidagilar bilan farq qiladi:
+Jarayonlar bir xil turga mansub va tsiklik hiosblanadi, loyiha maqsadi va amalga oshirish usullari bo'yicha noyobdir, shuningdek, aniq boshlanish va tugash sanalariga ega
+
+Qabul qilingan qiymat usuli quyidagilarga imkon beradi:
+Loyihaning ortda qolayotganini yoki muddatidan oldin ekanligini aniqlang, shuningdek, loyiha byudjetidagi ortiqcha xarajatlar yoki tejamkorlikni hisoblang
+
+Eng muhim bosqich nima?
+Loyihani amalga oshirishdagi muhim voqea, uni amalga oshirish jarayonini kuzatish uchun foydalaniladi
+
+Loyihaning predmet sohasi nima?
+Loyihani amalga oshirish natijasida ishlab chiqarish (amalga oshirish) ta'minlanishi kerak bo'lgan loyihalash ishlarining hajmi va ularning mazmuni, tovarlar va xizmatlar to'plami
+
+Investitsiya loyihasini amalga oshirish to'g'risida qaror qabul qilish jarayonida qanday omillarni hisobga olish kerak?
+Inflyatsiya, xatarlar, muqobil investitsiya imkoniyatlari
+
+Loyihani amalga oshirish uchun amalga oshirilgan ishlarni nazorat qilish usuli nima, bu tugallanmagan ishlar uchun ba'zi oraliq natijalarni qayd etish imkonini beradi.
+50 dan 50 gacha
+
+Loyihalarni moliyalashtirishning uchta usuli: o'z-o'zini moliyalashtirish, qarz olish va ..
+Jalb qilingan
+
+Kirish xabarlari to'gri ko'rsatilgan qatorni ko'rsating:
+kirish vositalari (klaviatura, manipulyatorlar, masalan, "sichqoncha" va boshqalar) yordamida odam tomonidan yaratilgan
+
+Chiqish xabarlari to'gri ko'rsatilgan qatorni ko'rsating
+kompyuter tomonidan matnlar, ovozli signallar va / yoki tasvirlar shaklida hosil qilingan va foydalanuvchi monitor ekranida yoki boshqa ma'lumotlarni chiqaruvchi qurilmalarda ko'rsatiladigan
+
+Kartalarni saralash usuli bu
+bu ma'lumotni guruhlarga bo'lish uchun foydalaniladigan oddiy, ishonchli va arzon foydalanuvchilarni o'rganish usuli
+
+Raqobatchilar tahlili deganda nimani tushunasiz ?
+dasturiy mahsulotlar yoki xizmatlarning kuchli va kuchsiz tomonlarini aniqlashga imkon beradigan sodda, arzon va samarali usul, prognoz qilinganga o'xshash, ammo bozorda allaqachon mavjud
+
+Mahalliy prototiplar to`g`ri keltirilgan qatorni toping.
+tizimning faqat kichik qismini modellashtirish. Ular yordamida turli xil dizayn variantlarini taqqoslash orqali fikrlar farqini hal qilish uchun foydalanish mumkin: bir nechta muqobil variantlarni yaratish va ularni baholash kifoya
+
+Gorizontal prototiplar bular...
+prototipdagi funktsiyalarning to'liqligi va imkoniyatlari doirasiga e'tibor qarating
+
+Videoning prototipi bu...
+mo'ljallangan bir yoki bir nechta vazifalarni bajarayotgan odamlarning video lavhalari
+
+Talablarni boshqarish nima uchun muhim? ______ o'zgarishi tufayli.
+aytilganlarning barchasida
+
+
+
+Mahsulot talablarini boshqarishda qaysi ikkita talabga ustunlik beriladi?
+Bardoshli va O'zgaruvchan (Enduring & Volatile)
+
+FAST (Facilitated Application Specification Techniques) yig'ilishini kim boshqaradi?
+Fasilitator
+
+QFD talablarini yodda tutgan holda, quyidagilardan qaysi biri kutilayotgan talabga misol emas?
+Maxsus tizim funktsiyalari
+
+Tashlanadigan prototip evolyutsion prototipdan nimasi bilan farq qiladi?
+Bu faqat bitta vazifani o'z ichiga oladi
+
+Nima uchun talablarni aniqlash qiyin ish?
+Barcha qayd etilganlar
+
+Ishonchlilikning to'rtta o'lchovi qanday?
+Mavjudlik, Ishonchlilik, Xavfsizlik, Xavfsizlik
+
+FAST kengaytmasi qanday?
+Facilitated Application Specification Technique - Osonlashtirilgan dastur spetsifikatsiyasi texnikasi
+
+
+IEEE IEEE 830-1993 standartini taqdim etadi. Ushbu standart qaysi faoliyat uchun tavsiya etilgan standart?
+Dasturiy ta'minot talabining spetsifikatsiyasi
+
